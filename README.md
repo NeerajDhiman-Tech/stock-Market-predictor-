@@ -1,16 +1,24 @@
-Stock Project Template
-----------------------
-This is a ready-to-run template for your stock prediction project.
+# Stock Market Price Predictor
 
-What is included:
-- train_model.py : script to train RandomForest models for each CSV in datasets/
-- app.py : Streamlit demo app to upload CSV and get prediction using trained models
-- requirements.txt : pip install -r requirements.txt
-- datasets/ : place your CSV files here (I included a small sample)
-- models/ : trained models will be saved here after running train_model.py
+A machine learning project that predicts future stock prices based on historical data to help investors make informed decisions.
 
-Quick start:
-1. Put your CSV files (one or more) into the datasets/ folder.
-2. Create a Python virtualenv, activate it, and install requirements.
-3. Run: python train_model.py  (this will create models/)
-4. Run: streamlit run app.py
+## Features
+
+- Data preprocessing and feature engineering
+- Multiple ML models like Linear Regression, Random Forest, LSTM
+- Performance evaluation with RMSE, MAE metrics
+- Visualization of actual vs predicted stock prices
+- Easy-to-use script to input stock ticker and get predictions
+
+## Technologies Used
+
+- Python
+- Pandas, NumPy for data handling
+- scikit-learn, TensorFlow/Keras for modeling
+- Matplotlib, Seaborn for data visualization
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/stock-market-predictor.git
