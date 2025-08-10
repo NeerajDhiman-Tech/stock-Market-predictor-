@@ -22,3 +22,7 @@ A machine learning project that predicts future stock prices based on historical
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/stock-market-predictor.git
+## Live Demo
+
+Try the app online here:  
+[Stock Market Predictor App](https://neerajdhiman-tech-stock-market-predictor--app-3w8fpq.streamlit.app/)
