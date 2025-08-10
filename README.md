@@ -13,6 +13,16 @@ Try the app online here:
 
 ---
 
+## 🖼️ Screenshots
+
+![Home Screen](images/home-screen.png)  
+*App home screen where you enter the stock ticker.*
+
+![Prediction Output](images/prediction-output.png)  
+*Example of predicted stock prices visualization.*
+
+---
+
 ## 🔍 Features
 
 - Data preprocessing and feature engineering for accurate predictions  
@@ -23,8 +33,11 @@ Try the app online here:
 
 ---
 
-## ⚙️ Getting Started
+## ⚙️ Installation
 
-1. Clone this repo  
+### Windows
+
+1. Clone the repo:  
    ```bash
    git clone https://github.com/yourusername/stock-market-predictor.git
+
