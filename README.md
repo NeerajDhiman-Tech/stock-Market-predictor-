@@ -15,7 +15,10 @@ Try the app online here:
 
 ## 🖼️ Screenshots
 
-![Home Screen]"C:\Users\Asus\Pictures\Screenshots\Screenshot 2025-08-10 135243.png"
+![Home Screen
+
+]Screenshot 2025-08-10 135243.png
+
 *App home screen where you enter the stock ticker.*
 
 ![Prediction Output]"C:\Users\Asus\Pictures\Screenshots\Screenshot 2025-08-10 135317.png"  
