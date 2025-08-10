@@ -1,28 +1,30 @@
-# Stock Market Price Predictor
+# 📈 Stock Market Price Predictor
 
-A machine learning project that predicts future stock prices based on historical data to help investors make informed decisions.
+![Python](https://img.shields.io/badge/python-3.9+-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white)
 
-## Features
+A machine learning app that predicts future stock prices based on historical data — helping you make smarter investment decisions!
 
-- Data preprocessing and feature engineering
-- Multiple ML models like Linear Regression, Random Forest, LSTM
-- Performance evaluation with RMSE, MAE metrics
-- Visualization of actual vs predicted stock prices
-- Easy-to-use script to input stock ticker and get predictions
+---
 
-## Technologies Used
-
-- Python
-- Pandas, NumPy for data handling
-- scikit-learn, TensorFlow/Keras for modeling
-- Matplotlib, Seaborn for data visualization
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/stock-market-predictor.git
-## Live Demo
+## 🚀 Live Demo
 
 Try the app online here:  
-[Stock Market Predictor App](https://neerajdhiman-tech-stock-market-predictor--app-3w8fpq.streamlit.app/)
+➡️ [![Open Streamlit App](https://img.shields.io/badge/Open_Streamlit_App-00C8FF?style=for-the-badge&logo=streamlit&logoColor=white)](https://neerajdhiman-tech-stock-market-predictor--app-3w8fpq.streamlit.app/)
+
+---
+
+## 🔍 Features
+
+- Data preprocessing and feature engineering for accurate predictions  
+- Multiple ML models: Linear Regression, Random Forest, LSTM  
+- Visual comparison of actual vs predicted stock prices  
+- User-friendly input to predict any stock ticker  
+- Built with Python, Pandas, scikit-learn, TensorFlow, and Streamlit
+
+---
+
+## ⚙️ Getting Started
+
+1. Clone this repo  
+   ```bash
+   git clone https://github.com/yourusername/stock-market-predictor.git
