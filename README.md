@@ -15,14 +15,11 @@ Try the app online here:
 
 ## 🖼️ Screenshots
 
-![Home Screen]
-
-https://github.com/NeerajDhiman-Tech/stock-Market-predictor-/blob/master/Screenshot%202025-08-10%20135243.png
-
+![Screenshot 1](images/Screenshot%202025-08-10%20135243.png)  
 *App home screen where you enter the stock ticker.*
 
-![Prediction Output]"C:\Users\Asus\Pictures\Screenshots\Screenshot 2025-08-10 135317.png"  
-*Example of predicted stock prices visualization.*
+![Screenshot 2](images/Screenshot%202025-08-10%20135317.png)  
+*Prediction output screen.*
 
 ---
 
