@@ -15,9 +15,9 @@ Try the app online here:
 
 ## 🖼️ Screenshots
 
-![Home Screen
+![Home Screen]
 
-]Screenshot 2025-08-10 135243.png
+https://github.com/NeerajDhiman-Tech/stock-Market-predictor-/blob/master/Screenshot%202025-08-10%20135243.png
 
 *App home screen where you enter the stock ticker.*
 
